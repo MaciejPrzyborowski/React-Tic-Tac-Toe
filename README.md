@@ -1,6 +1,9 @@
 # Kółko i krzyżyk
 Repozytorium zawiera grę Kółko i Krzyżyk, która została zrealizowana przy użyciu React i Vite.
 
+## 🔗 Demo
+https://maciejprzyborowski.github.io/React-Tic-Tac-Toe/
+
 ## 🚀 Cechy
  - 🎯 Wykrywanie stanu gry - zwycięstwa, remisy i zmiany tury gracza
  - 🔄 Natychmiastowy rewanż
